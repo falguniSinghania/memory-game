@@ -1,5 +1,7 @@
 # memory-game
-Gaming Rule
+Game Rule
+
+
 You have to press any *KEY* to start the game.
 The color blocks will blink to indicate you your necxt click on the color block. Keep in mind to click on all the pervios colors sequentially.
 
