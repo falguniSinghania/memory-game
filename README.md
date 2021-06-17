@@ -12,6 +12,6 @@ This is how you will see increas in levels as well. once you miss any color pres
 
 Tools / Techniques
 
-    ES6 Arrow Function Expression
+    JavaScript
     HTML data-* Attributes
     CSS Transitions
